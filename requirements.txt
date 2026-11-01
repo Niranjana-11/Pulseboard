@@ -4,3 +4,7 @@ redis
 python-dotenv
 sqlalchemy
 alembic
+fastapi
+uvicorn[standard]
+httpx
+pytest
