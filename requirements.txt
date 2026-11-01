@@ -2,3 +2,5 @@ psycopg2-binary
 pika
 redis
 python-dotenv
+sqlalchemy
+alembic
